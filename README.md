@@ -4,7 +4,7 @@
 
 # 🚀 Dapoy Bluestack Tweaker
 
-**Dapoy Tweak Emulator** adalah aplikasi All-in-One Tweaker super lengkap yang dirancang khusus untuk mengelola, mengatur, dan memberikan akses kontrol penuh ke emulator Android kesayangan Anda (BlueStacks 5, MSI App Player, dan LDPlayer 9). 
+**Dapoy Tweak Emulator** adalah aplikasi All-in-One Tweaker super lengkap yang dirancang khusus untuk mengelola, mengatur, dan memberikan akses kontrol penuh ke emulator Android kesayangan Anda (BlueStacks 5 dan MSI App Player). 
 
 Dibangun dengan antarmuka yang bersih, simpel, dan elegan, aplikasi ini memastikan pengalaman _tweaking_ emulator Anda menjadi jauh lebih cepat, aman, dan tanpa hambatan.
 
