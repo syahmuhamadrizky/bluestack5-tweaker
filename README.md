@@ -44,13 +44,6 @@ Berikut adalah urutan yang disarankan untuk melakukan *root* secara maksimal:
 
 ---
 
-## 🏗️ Kompilasi / Build
-
-Ingin mendistribusikan aplikasi ini? Anda cukup menjalankan file `build.bat`!
-Script tersebut akan otomatis meracik kode Python ini menjadi satu file `.exe` *standalone* lengkap dengan ikon keren, siap pakai dan bebas modifikasi tangan jahil.
-
----
-
 ## 🏆 Spesial Terima Kasih (Credits)
 
 Aplikasi ini tidak akan sekencang dan selengkap ini tanpa kontribusi luar biasa dari komunitas *open-source*. Kami ingin mengucapkan terima kasih yang sebesar-besarnya kepada:
