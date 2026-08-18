@@ -19,6 +19,8 @@ Dibangun dengan antarmuka yang bersih, simpel, dan elegan, aplikasi ini memastik
 - 🛡️ **Magisk Root Patcher (BlueStacks & MSI):** Integrasi *patcher* otomatis untuk menyuntikkan Magisk Root murni (Kitsune/Delta) tanpa meninggalkan jejak atau merusak file VHD.
 
 ---
+## Download Release 
+[Dapoy Bluestack Tweaker Release](https://github.com/syahmuhamadrizky/bluestack5-tweaker/releases).
 
 ## 🛠️ Cara Penggunaan
 
